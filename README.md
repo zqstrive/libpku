@@ -1,4 +1,4 @@
-# libpku - 北京大学课程资料整理
+# libpku - 贵校课程资料民间整理
 
 ## Preface
 
@@ -19,6 +19,8 @@
 ## Usage
 
 使用方法：访问 https://lib-pku.github.io/ ，点击资料链接即可下载。
+
+https://minhaskamal.github.io/DownGit/#/home
 
 ## Contribution
 
@@ -46,12 +48,16 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 3. - 提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
 
-   - 或者也可以直接附加在 Issue 中，由维护者进行添加。
+或者也可以直接附加在 **Issue** 中，由维护者进行添加。
+
+或者也可以发送邮件至 **libpku@protonmail.com** ，由维护者进行添加。
 
 ## Disclaimer
 
 这不是北京大学图书馆。
 我们也不对项目中信息的准确性或真实性做任何承诺。
+
+**如果有侵权情况，麻烦您发送必要的信息至 libpku@protonmail.com ，带来不便还请您谅解。**
 
 ## License
 
@@ -67,9 +73,13 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 - [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
 - [北京大学信科学生会学术部资料库](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
-- [清华大学计算机系课程攻略](https://github.com/Trinkle23897/thu-cst-cracker)
+- [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
-- [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+- [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
+- [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
+- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+- [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
+- [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)
 
 (more to be added....)
